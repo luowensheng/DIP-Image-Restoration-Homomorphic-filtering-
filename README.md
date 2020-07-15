@@ -57,13 +57,7 @@ Implementation of *Image Restoration wiener filtering* to deblur the images, and
 
 
    <br>
-   For the values of a, b, T, we have produced the best results for:
 
-    ```
-    a = 0.0155
-    T = 0.5
-    b = -0.0105
-    ```
     ![3](https://i.ibb.co/9hJSd80/3.jpg) 
 
 
