@@ -1,5 +1,5 @@
 <h3 align="center">Digital Image Processing:</h3>
-<h1 align="center"Image Restoration Homomorphic Filtering</h1>
+<h1 align="center">Image Restoration Homomorphic Filtering</h1>
 <p align="center">
     <a href="https://www.mathworks.com/products/matlab.html"><img src="https://img.shields.io/badge/Made with-MATLAB-blue.svg"></a>
     <a href="https://github.com/luowensheng/DIP-Image-Restoration-Homomorphic-filtering-/pulse"><img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>
@@ -15,11 +15,13 @@
 <br>
 
 # Introduction
-[(Back to top :arrow_up_small:)](#Image-Coding-and-Image-Permutation)
+[(Back to top :arrow_up_small:)](#Image-Restoration-Homomorphic-Filtering)
 
 Implementation of *Image Restoration wiener filtering* to deblur the images, and *notch filter* to denoise the image and Homomorphic filtering
 
 # Tasks
+[(Back to top :arrow_up_small:)](#Image-Restoration-Homomorphic-Filtering)
+
 ### **Image Restoration**
 - To use the wiener filtering and different parameters to deblur the images. 
 - To observe the frequency spectrum, and design a notch filter to denoise the image.
@@ -37,6 +39,8 @@ Implementation of *Image Restoration wiener filtering* to deblur the images, and
 * To discuss their characteristics.
 
 # Implementation
+[(Back to top :arrow_up_small:)](#Image-Restoration-Homomorphic-Filtering)
+
 ### **Image Restoration**
 - Wiener filtering to deblur the images:
     
@@ -51,7 +55,6 @@ Implementation of *Image Restoration wiener filtering* to deblur the images, and
 
    ![2](https://i.ibb.co/XFY1LWY/2.jpg) 
 
-   >Best result with **k=1/2**;
 
    <br>
    For the values of a, b, T, we have produced the best results for:
@@ -94,8 +97,12 @@ Implementation of *Image Restoration wiener filtering* to deblur the images, and
 
 
 # Reference
+[(Back to top :arrow_up_small:)](#Image-Restoration-Homomorphic-Filtering)
+
 [1] [IEEE Manuscript Templates](http://www.ieee.org/conferences_events/conferences/publishing/templates.html).
 
 # Questions
+[(Back to top :arrow_up_small:)](#Image-Restoration-Homomorphic-Filtering)
+
 Submit your questions and bug reports [here](https://github.com/luowensheng/Natural-Language-Processing-Grammatical-Error-Correction-/issues).
 
