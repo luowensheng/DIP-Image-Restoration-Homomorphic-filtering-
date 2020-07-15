@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="#Introduction">Introduction</a> •
-  <a href="#Issues">Issues</a> •
+  <a href="#Issues">Tasks</a> •
   <a href="#Implementation">Implementation</a> •
   <a href="#Questions">Questions</a>
 </p>
@@ -17,7 +17,7 @@
 # Introduction
 Implementation of *Image Restoration wiener filtering* to deblur the images, and *notch filter* to denoise the image and Homomorphic filtering
 
-# Issues
+# Tasks
 ### **Image Restoration**
 - To use the wiener filtering and different parameters to deblur the images. 
 - To observe the frequency spectrum, and design a notch filter to denoise the image.
