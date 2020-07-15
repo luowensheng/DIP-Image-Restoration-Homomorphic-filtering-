@@ -9,7 +9,6 @@
   <a href="#Introduction">Introduction</a> •
   <a href="#Issues">Issues</a> •
   <a href="#Implementation">Implementation</a> •
-  <a href="#Conclusion">Conclusion</a> •
   <a href="#Questions">Questions</a>
 </p>
 
@@ -91,13 +90,6 @@ Implementation of *Image Restoration wiener filtering* to deblur the images, and
 
 ![10](https://i.ibb.co/g3TRRYK/10.jpg)
 
-
-# Conclusion
-Here are the noise in the frequency domain.
-* Image 2 to image 4 are **raileigh**;
-* Image 5 is **gamma**.
-
-    ![11](https://i.ibb.co/64PWzPY/11.jpg)
 
 # Reference
 [1] [IEEE Manuscript Templates](http://www.ieee.org/conferences_events/conferences/publishing/templates.html).
