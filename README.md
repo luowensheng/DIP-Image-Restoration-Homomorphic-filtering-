@@ -26,19 +26,20 @@ Implementation of *Image Restoration wiener filtering* to deblur the images, and
 
 
 ### **Homomorphic Filtering**
-- To apply following filters to enhance the image in Frequency domain. Then, recover these images from frequency domain to spatial domain.
+* To apply following filters to enhance the image in Frequency domain. Then, recover these images from frequency domain to spatial domain.
 
-    1. Ideal highpass filter
-    2. Butterworth highpass filter
-    3. Gaussian highpass filter
+1. Ideal highpass filter
+2. Butterworth highpass filter
+3. Gaussian highpass filter
 
-- To discuss their characteristics.
+* To discuss their characteristics.
 
 # Implementation
 ### **Image Restoration**
 - Wiener filtering to deblur the images:
     
     Image 1 and 2 and their **fourier transforms**:
+    
     ![1](https://i.ibb.co/R6rm3kv/1.jpg)
     
     Our task is to analyze the frequency of these images and design a filter capable of restoring the image with wiener filter.
