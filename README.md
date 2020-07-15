@@ -1,5 +1,5 @@
-<h1 align="center">Digital Image Processing: Image Restoration Homomorphic Filtering
-</h1>
+<h3 align="center">Digital Image Processing:</h3>
+<h1 align="center"Image Restoration Homomorphic Filtering</h1>
 <p align="center">
     <a href="https://www.mathworks.com/products/matlab.html"><img src="https://img.shields.io/badge/Made with-MATLAB-blue.svg"></a>
     <a href="https://github.com/luowensheng/DIP-Image-Restoration-Homomorphic-filtering-/pulse"><img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>
@@ -15,6 +15,8 @@
 <br>
 
 # Introduction
+[(Back to top :arrow_up_small:)](#Image-Coding-and-Image-Permutation)
+
 Implementation of *Image Restoration wiener filtering* to deblur the images, and *notch filter* to denoise the image and Homomorphic filtering
 
 # Tasks
