@@ -16,7 +16,7 @@
   <a href="#Questions">Questions</a>
 </p>
 
-<br>
+___
 
 # Introduction
 [(Back to top :arrow_up_small:)](#Image-Restoration-Homomorphic-Filtering)
