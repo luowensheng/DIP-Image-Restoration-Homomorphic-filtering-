@@ -1,18 +1,18 @@
-# Digital Image Processing: Image Restoration Homomorphic Filtering
+<h1 align="center">Digital Image Processing: Image Restoration Homomorphic Filtering
+</h1>
+<p align="center">
+    <a href="https://www.mathworks.com/products/matlab.html"><img src="https://img.shields.io/badge/MATLAB-blue.svg"></a>
+    <a href="https://github.com/luowensheng/DIP-Image-Restoration-Homomorphic-filtering-/pulse"><img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>
+    <a href="https://github.com/luowensheng"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"></a>
 
-
-
-![Generic badge](https://img.shields.io/badge/MATLAB-blue.svg)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/luowensheng/DIP-Image-Restoration-Homomorphic-filtering-/pulse)
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/luowensheng)
-
-[Introduction](#Introduction) • [Issues](#Issues) • [Implementation](#Implementation) • [Conclusion](#Conclusion) • [Questions](#Questions)
-
-</center>
+<p align="center">
+  <a href="#Introduction">Introduction</a> •
+  <a href="#Issues">Issues</a> •
+  <a href="#Implementation">Implementation</a> •
+  <a href="#Conclusion">Conclusion</a> •
+  <a href="#Questions">Questions</a>
+</p>
 <br>
-<br>
-<br>
-
 
 # Introduction
 Implementation of *Image Restoration wiener filtering* to deblur the images, and *notch filter* to denoise the image and Homomorphic filtering
@@ -39,7 +39,6 @@ Implementation of *Image Restoration wiener filtering* to deblur the images, and
 - Wiener filtering to deblur the images:
     
     Image 1 and 2 and their **fourier transforms**:
-    <br>
     ![1](https://i.ibb.co/R6rm3kv/1.jpg)
     
     Our task is to analyze the frequency of these images and design a filter capable of restoring the image with wiener filter.
@@ -80,18 +79,15 @@ Implementation of *Image Restoration wiener filtering* to deblur the images, and
 
 1. Ideal highpass filter:
 
-    ![8](https://i.ibb.co/6RKD6ZG/8.jpg)
+![8](https://i.ibb.co/6RKD6ZG/8.jpg)
 
+2. Butterworth highpass filter: 
 
-2. Butterworth highpass filter:
-
-    ![9](https://i.ibb.co/4fFLV1F/9.jpg)
-
+![9](https://i.ibb.co/4fFLV1F/9.jpg)
 
 3. Gaussian highpass filter: 
 
-    ![10](https://i.ibb.co/g3TRRYK/10.jpg)
-
+![10](https://i.ibb.co/g3TRRYK/10.jpg)
 
 
 # Conclusion
