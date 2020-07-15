@@ -1,3 +1,7 @@
+<p align="center">
+    <a href="https://github.com/luowensheng"><img src="https://i.ibb.co/K76QxJ0/logo-size.jpg"></a>
+</p>
+
 <h3 align="center">Digital Image Processing:</h3>
 <h1 align="center">Image Restoration Homomorphic Filtering</h1>
 <p align="center">
@@ -56,9 +60,7 @@ Implementation of *Image Restoration wiener filtering* to deblur the images, and
    ![2](https://i.ibb.co/XFY1LWY/2.jpg) 
 
 
-   <br>
-
-    ![3](https://i.ibb.co/9hJSd80/3.jpg) 
+   ![3](https://i.ibb.co/9hJSd80/3.jpg) 
 
 
 - Notch filter to denoise the image:
