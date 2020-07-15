@@ -80,17 +80,17 @@ Implementation of *Image Restoration wiener filtering* to deblur the images, and
 
 1. Ideal highpass filter:
 
-![8](https://i.ibb.co/6RKD6ZG/8.jpg)
+    ![8](https://i.ibb.co/6RKD6ZG/8.jpg)
 
 
 2. Butterworth highpass filter:
 
-![9](https://i.ibb.co/4fFLV1F/9.jpg)
+    ![9](https://i.ibb.co/4fFLV1F/9.jpg)
 
 
 3. Gaussian highpass filter: 
 
-![10](https://i.ibb.co/g3TRRYK/10.jpg)
+    ![10](https://i.ibb.co/g3TRRYK/10.jpg)
 
 
 
