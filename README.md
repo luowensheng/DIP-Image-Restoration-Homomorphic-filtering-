@@ -1,5 +1,11 @@
 <p align="center">
-    <a href="https://github.com/luowensheng"><img src="https://i.ibb.co/K76QxJ0/logo-size.jpg"></a>
+    <a href="https://github.com/luowensheng"><img src="https://i.ibb.co/XDmnFgH/logo1.png"></a>
+</p>
+<p align="center">
+    <a href="https://github.com/luowensheng"><img src="https://i.ibb.co/x1CbyhJ/logo2.png"></a>
+</p>
+<p align="center">
+    <a href="https://github.com/luowensheng"><img src="https://i.ibb.co/H7DH6CS/logo3.png"></a>
 </p>
 
 <h3 align="center">Digital Image Processing:</h3>
