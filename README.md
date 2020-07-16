@@ -1,7 +1,6 @@
 <p align="center">
     <a href="https://github.com/luowensheng"><img src="https://i.ibb.co/0FmPqfm/logo1a.png"></a>
 </p>
-
 <h3 align="center">Digital Image Processing:</h3>
 <h1 align="center">Image Restoration Homomorphic Filtering</h1>
 <p align="center">
