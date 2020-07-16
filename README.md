@@ -101,3 +101,7 @@ Implementation of *Image Restoration wiener filtering* to deblur the images, and
 
 Submit your questions and bug reports [here](https://github.com/luowensheng/Natural-Language-Processing-Grammatical-Error-Correction-/issues).
 
+<br>
+<p align="center">  
+  <sub>© luowensheng.
+  </a>
